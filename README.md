@@ -1,6 +1,6 @@
 # Qt-Projects
 
-This repository includes a few Qt Projects coding by C++ language. 
+This repository includes a few Qt Projects coding by C++ language. Please indicate this link [https://github.com/AvonDeng/Qt-Projects](https://github.com/AvonDeng/Qt-Projects) when using this project.
 
 ## Introduction
 
